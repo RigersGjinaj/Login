@@ -1,0 +1,15 @@
+.login {
+  max-width: 700px;
+  min-height: 300px;
+  margin-top: 20px;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+.inserimento {
+  display: flex;
+  justify-content: center;
+  min-width: 500px;
+}
+form {
+  min-width: 500px;
+}
