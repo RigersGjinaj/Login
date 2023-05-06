@@ -215,26 +215,3 @@
     padding: 2rem;
   }
 }
-
-.logoVisualizza {
-  height: 50px;
-  width: 50px;
-  border-radius: 10px;
-  background-color: #92140c;
-  display: flex;
-  justify-content: left;
-}
-.immagine {
-  width: 40px;
-  height: 40px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.navbar {
-  width: 500px;
-}
-.btnVisualizza {
-  display: flex;
-  justify-content: right;
-}
